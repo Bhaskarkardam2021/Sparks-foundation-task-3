@@ -1,1 +1,1 @@
-# Sparks-foundation-task-3
+Tip-calculator
